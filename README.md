@@ -1,10 +1,13 @@
-# Design Stock
+<p align="center">
+  <img src="docs/icon.png" width="128" alt="Design Stock アイコン" />
+</p>
 
-デザインのスクリーンショットをローカルに保存し、整理できるmacOSアプリです。
+<h1 align="center">Design Stock</h1>
 
-Local-first design screenshot organizer for macOS.
+<p align="center">デザインのスクリーンショットをローカルに保存し、整理できるmacOSアプリです。<br/>
+Local-first design screenshot organizer for macOS.</p>
 
-<!-- screenshot -->
+![Design Stock のギャラリー画面](docs/screenshot-gallery.png)
 
 ## 主な機能
 
